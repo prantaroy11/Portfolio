@@ -101,7 +101,7 @@ export const Hero = () => {
                 </span>
               </h1>
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
-                Hi, I'm Pranto Roy — a Computer Science Engineering undergraduate at IIIT Gwalior.
+                Hi, I'm Pranta Roy — a Computer Science Engineering undergraduate at IIIT Gwalior.
 I build scalable full-stack web applications and AI-powered systems using modern
 technologies like React, Node.js, and MongoDB, with a strong foundation in data
 structures and problem solving.

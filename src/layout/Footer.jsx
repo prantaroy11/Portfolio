@@ -23,10 +23,10 @@ export const Footer = () => {
           {/* Logo & Copyright */}
           <div className="text-center md:text-left">
             <a href="#" className="text-xl font-bold tracking-tight">
-              PRANTO ROY<span className="text-primary">.</span>
+              PRANTA ROY<span className="text-primary">.</span>
             </a>
             <p className="text-sm text-muted-foreground mt-2">
-              © {currentYear} Pranto Roy. All rights reserved.
+              © {currentYear} Pranta Roy. All rights reserved.
             </p>
           </div>
 

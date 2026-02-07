@@ -33,7 +33,7 @@ const projects = [
     description:
       `A simple and interactive Tic Tac Toe game built to practice core programming concepts and game logic.
 The game allows two players to play turn-by-turn, detects winning conditions, and handles draw situations efficiently.`,
-    image: "../public/projects/Tic-Tac-Toe.png",
+    image: "../projects/Tic-Tac-Toe.png",
     tags: ["Html", "Css", "Javascript"],
     // link: "#",
     github: "https://github.com/prantaroy11/Tic-Tac-Toe",
