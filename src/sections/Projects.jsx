@@ -5,7 +5,7 @@ const projects = [
     title: "AI Code Generation Agent",
     description:
       "This project is an AI-powered coding agent that can plan, architect, and generate complete software projects from a single natural language prompt.",
-    image: "../public/projects/AI Code Generation Agent.png",
+    image: "/AI Code Generation Agent.png",
     tags: ["Python", "LangGraph", "LangChain", "Groq API", "Pydantic"],
     // link: "#",
     github: "https://github.com/prantaroy11/ai-code-generation-agent",
@@ -14,7 +14,7 @@ const projects = [
     title: "Buy-Sell-Cars",
     description:
       "A website where you can register either as a buyer or a seller. Buyers can book cars and confirm purchase. Sellers can add , remove, update their cars through Dashboard.",
-    image: "../public/projects/Bye Seller.png",
+    image: "/Bye Seller.png",
     tags: ["React", "Vite", "Firebase", "Tailwind", "Stripe", "Node.js", "MongoDB"],
     // link: "#",
     github: "https://github.com/prantaroy11/Buy-Sell-Cars",
@@ -23,7 +23,7 @@ const projects = [
     title: "Passion-Pods",
     description:
       "Passion_Pods is a platform that connects people with shared interests through an interactive map, real-time chat, user reviews, and image sharing. Discover hobbyists nearby, showcase your skills, and collaborate effortlessly in a secure and engaging environment!",
-    image: "../public/projects/Passion-Pods.webp",
+    image: "/Passion-Pods.webp",
     tags: ["React", "Node.js", "Socket.io", "MongoDB", "Tailwind CSS"],
     // link: "#",
     github: "https://github.com/prantaroy11/Passion-Pods",
@@ -33,7 +33,7 @@ const projects = [
     description:
       `A simple and interactive Tic Tac Toe game built to practice core programming concepts and game logic.
 The game allows two players to play turn-by-turn, detects winning conditions, and handles draw situations efficiently.`,
-    image: "../projects/Tic-Tac-Toe.png",
+    image: "/Tic-Tac-Toe.png",
     tags: ["Html", "Css", "Javascript"],
     // link: "#",
     github: "https://github.com/prantaroy11/Tic-Tac-Toe",
